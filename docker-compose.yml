@@ -1,0 +1,50 @@
+version: '3'
+
+services:
+  database:
+    image: postgres:11
+    environment:
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=top_secret
+      - POSTGRES_DBNAME=app
+  test:
+    build: .
+    command: ["./run_tests.sh"]
+    restart: always
+    environment:
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=top_secret
+      - DATABASE_NAME=app
+      - DATABASE_USER=app
+      - DATABASE_PASSWORD=top_secret
+      - DATABASE_HOST=database
+      - ROOT_EMAIL=root@productsapi.com
+      - ROOT_PASSWORD=s!Q4awa65m5l34U7#RfYTJwd%0BNib
+      - ROOT_USERNAME=root
+    volumes:
+      - .:/code
+    ports:
+      - "80:80"
+    depends_on:
+      - database
+    links:
+      - database
+  web:
+    build: .
+    command: ["./startup.sh"]
+    restart: always
+    environment:
+      - POSTGRES_USER=app
+      - POSTGRES_PASSWORD=top_secret
+      - DATABASE_NAME=app
+      - DATABASE_USER=app
+      - DATABASE_PASSWORD=top_secret
+      - DATABASE_HOST=database
+    volumes:
+      - .:/code
+    ports:
+      - "80:80"
+    depends_on:
+      - database
+    links:
+      - database

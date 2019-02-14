@@ -1,0 +1,315 @@
+<Product VersionDateTime="2017-04-05T15:30:37Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">50362059</Code>
+      <Code Scheme="BRANDBANK:PVID">4219544</Code>
+    </ProductCodes>
+    <Subscription Id="42218" Code="AKAT001">Katsouris Brothers Ltd - Branded Web</Subscription>
+    <DiagnosticDescription Code="en-GB">Cypressa Chick Peas 500g</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=00f7e55e-0247-7952-7349-846304ee7942</Url>
+      <Thumbprint>6XsCPn8RH8ttclAEuZ7okQ==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Cypressa Chick Peas 500g</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="01">Fruit &amp; Vegetables</Level>
+          <Level Code="04">Core Vegetables</Level>
+          <Level Code="09">Peas</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="166">Gluten</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="119">Nuts</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="120">Peanuts</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="1982">Sesame</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Katsouris Brothers Limited,
+100 Queensbury Road,
+Wembley,
+Middlesex,
+HA0 1QG.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">167</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">112</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">42</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="19" Name="Preparation and Usage" xml:space="preserve">Instruction for use
+Soak the chick peas for a minimum of 8 hours or overnight and drain. Rinse through and cover with fresh water. Bring to a rapid boil for 10 minutes, then simmer for 35 - 40 minutes or until cooked.</Memo>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Ambient dry storage.</Memo>
+        <Memo Id="21" Name="Further Description" xml:space="preserve">Find us on Facebook, Twitter, Instagram @cypressafoods</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="196">Packed In</Name>
+            <Value Id="251" Code="GB">United Kingdom</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Cypressa</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Katsouris Brothers Limited,
+100 Queensbury Road,
+Wembley,
+Middlesex,
+HA0 1QG.
+www.cypressa.co.uk</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="271">Ambient</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="299">Heat Sealed</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="1766">Cypressa</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">509</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="35" Name="Product Marketing" xml:space="preserve">A delicious versatile ingredients, ideal for using in falafel, curries &amp; houmous</Memo>
+        <Memo Id="36" Name="Brand Marketing" xml:space="preserve">A family business providing superior produce since 1964</Memo>
+        <Memo Id="52" Name="Safety Warning" xml:space="preserve">Warning
+Do not eat raw. Do not slow casserole unless soaked for 8 hours and boiled rapidly for 10 minutes.</Memo>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">500</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12570" Code="g">Grams</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">500</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">g</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Chick Peas</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>per 100g As Sold</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy</Name>
+            <Values>
+              <Value>1345Kj/318kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat</Name>
+            <Values>
+              <Value>4.1g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> of which saturates</Name>
+            <Values>
+              <Value>0.6g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrate</Name>
+            <Values>
+              <Value>62.1g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> of which sugars</Name>
+            <Values>
+              <Value>5.5g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fibre</Name>
+            <Values>
+              <Value>12.8g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein</Name>
+            <Values>
+              <Value>20.9g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt</Name>
+            <Values>
+              <Value>0.0g</Value>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>1345.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>318.00000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>4.10000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>0.60000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>62.10000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>5.50000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1194" Name="Fibre (g)">
+            <Per100>
+              <Value>12.80000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>20.90000</Value>
+            </Per100>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>0.00000</Value>
+            </Per100>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">167</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">112</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">42</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Packed in the UK</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="155" Name="Web Address">
+          <Text xml:space="preserve">www.cypressa.co.uk</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Chick Peas</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Chick Peas</Text>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Chick Peas</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Katsouris Brothers Limited</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">100 Queensbury Road,
+Wembley,
+Middlesex,
+HA0 1QG.</Memo>
+        <TaggedMemo Id="197" Name="Taggable Allergy Text">
+          <Content xml:space="preserve">May contains Nuts, Peanuts, Sesame Seeds, and Gluten</Content>
+        </TaggedMemo>
+        <LongTextItems Id="245" Name="Social Media">
+          <Text xml:space="preserve">Facebook: @cypressafoods</Text>
+          <Text xml:space="preserve">Twitter: @cypressafoods</Text>
+          <Text xml:space="preserve">Instagram: @cypressafoods</Text>
+        </LongTextItems>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

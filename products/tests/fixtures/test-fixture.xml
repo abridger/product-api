@@ -1,0 +1,45 @@
+<Product VersionDateTime="2017-07-06T15:03:19Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <ProductCodes>
+      <Code Scheme="GTIN">123459876</Code>
+      <Code Scheme="BRANDBANK:PVID">4521780</Code>
+    </ProductCodes>
+    <Subscription Id="43221" Code="AGEN002">Test brand</Subscription>
+    <DiagnosticDescription Code="en-GB">Test product</DiagnosticDescription>
+  </Identity>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Test product description</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="06">Groceries</Level>
+          <Level Code="05">Fruit and Vegetables</Level>
+          <Level Code="06">Exotic</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <PerServingHeading>70 g Bar</PerServingHeading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>100</Value>
+            </Per100>
+            <PerServing>
+              <Value>25</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>100</Value>
+            </Per100>
+            <PerServing>
+              <Value>25</Value>
+            </PerServing>
+          </NutrientValues>
+        </NumericNutrition>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

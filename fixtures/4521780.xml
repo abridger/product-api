@@ -1,0 +1,488 @@
+<Product VersionDateTime="2017-06-26T08:31:28Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">3415587507021</Code>
+      <Code Scheme="BRANDBANK:PVID">4521780</Code>
+    </ProductCodes>
+    <Subscription Id="43221" Code="AGEN002">General Mills (Haagen-Dazs)</Subscription>
+    <DiagnosticDescription Code="en-GB">Häagen-Dazs White Chocolate &amp; Almond Ice Cream Bars 3 x 80ml</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=002ecd5e-1b47-74bd-73d4-135a04fbcadf</Url>
+      <Thumbprint>mKwLqyT2aD9qLCQGDjPTHg==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Häagen-Dazs White Chocolate &amp; Almond Ice Cream Bars 3 x 80ml</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="06">Frozen Foods</Level>
+          <Level Code="05">Ice Creams &amp; Frozen Desserts</Level>
+          <Level Code="06">Lollies, Bars &amp; Toppings</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="2" Name="Lifestyle">
+          <Statement Id="66">Kosher</Statement>
+        </Statements>
+        <Memo Id="3" Name="Other Information" xml:space="preserve">240ml = 210g</Memo>
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="167">Almonds</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="112">Eggs</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="116">Milk</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="1981">Soya</Name>
+            <Value Id="1">Contains</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="1793">Tree Nuts</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+        </NameLookups>
+        <Statements Id="10" Name="Storage and Usage Statements">
+          <Statement Id="204">Keep Frozen</Statement>
+        </Statements>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">General Mills UK,
+P.O. Box 363,
+Uxbridge,
+Middx,
+UB8 1YT.</Memo>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Keep stored below -18°C.
+Once thawed, do not refreeze.
+For best before date see side of carton.</Memo>
+        <NameLookups Id="23" Name="Country">
+          <NameValue>
+            <Name Id="195">Country of Origin</Name>
+            <Value Id="96" Code="FR">France</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Häagen-Dazs</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">www.haagen-dazs.com
+Freephone 0800 125556 (UK)
+1800 535115 (ROI)
+General Mills UK,
+P.O. Box 363,
+Uxbridge,
+Middx,
+UB8 1YT.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="273">Frozen</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="28" Name="Storage Conditions">
+          <NameText>
+            <Name Id="192">Max Temp °C</Name>
+            <Text xml:space="preserve">-18</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="282">Box</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Made with real cream</Text>
+          <Text xml:space="preserve">Kosher - D</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="2771">Häagen-Dazs</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="35" Name="Product Marketing" xml:space="preserve">New ice cream bar from Haagen Dazs.
+
+Our vanilla ice cream with crunchy caramelised almonds enrobed in a coating of real white Belgian Chocolate, a soothing white chocolate treat.
+
+Ice cream bar made extraordinary.
+
+Vanilla ice cream with Belgian white chocolate (22%) and caramelised almond pieces (7%).</Memo>
+        <NameTextItems Id="66" Name="Number of Units">
+          <NameText>
+            <Name Id="925">Number of Units</Name>
+            <Text xml:space="preserve">3</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">80</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12573" Code="ml">Millilitres</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">80</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">ml</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="996">Danish</Statement>
+          <Statement Id="1001">English</Statement>
+          <Statement Id="1007">Finnish</Statement>
+          <Statement Id="1017">Greek, Modern (1453-)</Statement>
+          <Statement Id="1089">Norwegian</Statement>
+          <Statement Id="1138">Swedish</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Vanilla Ice Cream (Fresh Cream (39%), Condensed Skimmed Milk, Sugar, Egg Yolk, Dried Glucose Syrup, Natural Vanilla Flavouring, Salt)</Text>
+          <Text xml:space="preserve">Belgian White Chocolate (Cocoa Butter, Sugar, Whole Milk Powder, Skimmed Milk Powder, Butter Oil, Coconut Oil, Emulsifier: Soy Lecithin)</Text>
+          <Text xml:space="preserve">Caramel Almonds (Roasted Almonds, Sugar, Coconut Oil, Glucose Syrup, Caramelised Sugar Syrup)</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>Per 100 g</Heading>
+            <Heading>70 g Bar</Heading>
+            <Heading>%* (70 g)</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy </Name>
+            <Values>
+              <Value>1513 kJ / 364 kcal</Value>
+              <Value>1059 kJ / 255 kcal</Value>
+              <Value>13 %</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>26.8 g</Value>
+              <Value>18.8 g</Value>
+              <Value>27 %</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> of which saturates </Name>
+            <Values>
+              <Value>15.6 g</Value>
+              <Value>10.9 g</Value>
+              <Value>55 %</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrate </Name>
+            <Values>
+              <Value>25.3 g</Value>
+              <Value>17.7 g</Value>
+              <Value>7 %</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name> of which sugars </Name>
+            <Values>
+              <Value>24.6 g</Value>
+              <Value>17.2 g</Value>
+              <Value>19 %</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fibre </Name>
+            <Values>
+              <Value>0.4 g</Value>
+              <Value>0.3 g</Value>
+              <Value>-</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein </Name>
+            <Values>
+              <Value>5.2 g</Value>
+              <Value>3.6 g</Value>
+              <Value>7 %</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt </Name>
+            <Values>
+              <Value>0.24 g</Value>
+              <Value>0.17 g</Value>
+              <Value>3 %</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>*Reference intake of an average adult (8 400 kJ/ 2 000 kcal)</Name>
+            <Values>
+              <Value/>
+              <Value/>
+              <Value/>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Contains 3 portions</Name>
+            <Values>
+              <Value/>
+              <Value/>
+              <Value/>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <PerServingHeading>70 g Bar</PerServingHeading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>1513.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>1059.00000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>364.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>255.00000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>26.80000</Value>
+            </Per100>
+            <PerServing>
+              <Value>18.80000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>15.60000</Value>
+            </Per100>
+            <PerServing>
+              <Value>10.90000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>25.30000</Value>
+            </Per100>
+            <PerServing>
+              <Value>17.70000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>24.60000</Value>
+            </Per100>
+            <PerServing>
+              <Value>17.20000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1194" Name="Fibre (g)">
+            <Per100>
+              <Value>0.40000</Value>
+            </Per100>
+            <PerServing>
+              <Value>0.30000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>5.20000</Value>
+            </Per100>
+            <PerServing>
+              <Value>3.60000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>0.24000</Value>
+            </Per100>
+            <PerServing>
+              <Value>0.17000</Value>
+            </PerServing>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="147" Name="Origin">
+          <NameText>
+            <Name Id="2016">Origin Free Text</Name>
+            <Text xml:space="preserve">Made in France</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="153" Name="Telephone Helpline">
+          <Text xml:space="preserve">0800 125556 (UK)</Text>
+          <Text xml:space="preserve">1800 535115 (ROI)</Text>
+        </LongTextItems>
+        <LongTextItems Id="155" Name="Web Address">
+          <Text xml:space="preserve">www.haagen-dazs.com</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Vanilla ice cream with Belgian white chocolate (22%) and caramelised almond pieces (7%).</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <Statements Id="173" Name="Allergen Tag Format">
+          <Statement Id="1902">Bold</Statement>
+        </Statements>
+        <TaggedMemo Id="176" Name="Taggable Information">
+          <Content xml:space="preserve">For allergens, see ingredients in bold</Content>
+        </TaggedMemo>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Vanilla Ice Cream (Fresh Cream (39%), Condensed Skimmed Milk, Sugar, Egg Yolk, Dried Glucose Syrup, Natural Vanilla Flavouring, Salt)</Text>
+          <Text xml:space="preserve">Belgian White Chocolate (Cocoa Butter, Sugar, Whole Milk Powder, Skimmed Milk Powder, Butter Oil, Coconut Oil, Emulsifier: Soy Lecithin)</Text>
+          <Text xml:space="preserve">Caramel Almonds (Roasted Almonds, Sugar, Coconut Oil, Glucose Syrup, Caramelised Sugar Syrup)</Text>
+          <Tags>
+            <Tag TextIndex="0" StartIndex="25" Length="5" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="56" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="0" StartIndex="69" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="52" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="73" Length="4" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="86" Length="6" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="1" StartIndex="123" Length="3" TagTypeId="1" TagType="Allergen As On Pack"/>
+            <Tag TextIndex="2" StartIndex="25" Length="7" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedLongTextItems>
+        <FrontOfPackGDA Id="178" Name="Front of Pack Nutrition">
+          <Reference Id="4" Description="Per Portion">
+            <Headers>
+              <Header>1 x bar (70g)</Header>
+            </Headers>
+            <Lozenges>
+              <Lozenge Id="1906" Name="Energy">
+                <Quantities>
+                  <Quantity>
+                    <Value>1059 </Value>
+                    <Unit Id="2" Name="kJ"/>
+                  </Quantity>
+                  <Quantity>
+                    <Value>255 </Value>
+                    <Unit Id="3" Name="kcal"/>
+                  </Quantity>
+                </Quantities>
+                <Percentage>
+                  <Value>13.00</Value>
+                </Percentage>
+              </Lozenge>
+              <Lozenge Id="1907" Name="Fat">
+                <Quantities>
+                  <Quantity>
+                    <Value>18.8 </Value>
+                    <Unit Id="1" Name="g"/>
+                  </Quantity>
+                </Quantities>
+                <Percentage>
+                  <Value>27.00</Value>
+                </Percentage>
+              </Lozenge>
+              <Lozenge Id="1908" Name="Saturates">
+                <Quantities>
+                  <Quantity>
+                    <Value>10.9 </Value>
+                    <Unit Id="1" Name="g"/>
+                  </Quantity>
+                </Quantities>
+                <Percentage>
+                  <Value>55.00</Value>
+                </Percentage>
+              </Lozenge>
+              <Lozenge Id="1909" Name="Sugars">
+                <Quantities>
+                  <Quantity>
+                    <Value>17.2 </Value>
+                    <Unit Id="1" Name="g"/>
+                  </Quantity>
+                </Quantities>
+                <Percentage>
+                  <Value>19.00</Value>
+                </Percentage>
+              </Lozenge>
+              <Lozenge Id="1910" Name="Salt">
+                <Quantities>
+                  <Quantity>
+                    <Value>0.17 </Value>
+                    <Unit Id="1" Name="g"/>
+                  </Quantity>
+                </Quantities>
+                <Percentage>
+                  <Value>3.00</Value>
+                </Percentage>
+              </Lozenge>
+            </Lozenges>
+            <Footers>
+              <Footer>Per 100 g 1513 kJ/ 364 kcal</Footer>
+              <Footer>Reference intake of an average adutl (8 400 kJ/ 2 000 kcal)</Footer>
+            </Footers>
+          </Reference>
+        </FrontOfPackGDA>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1997">Functional Name</Name>
+            <Text xml:space="preserve">Ice Cream Bars</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">White Chocolate &amp; Almond</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextLookups Id="191" Name="Usage Count">
+          <NameValueText>
+            <Name Id="2017">Number of uses</Name>
+            <Value Id="39552">Servings</Value>
+            <Text xml:space="preserve">3</Text>
+          </NameValueText>
+        </NameTextLookups>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">General Mills UK</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">P.O. Box 363,
+Uxbridge,
+Middx,
+UB8 1YT.</Memo>
+        <LongTextItems Id="194" Name="Usage Other Text">
+          <Text xml:space="preserve">Contains 3 portions</Text>
+        </LongTextItems>
+        <Memo Id="196" Name="Trademark Information" xml:space="preserve">© General Mills</Memo>
+        <TaggedMemo Id="197" Name="Taggable Allergy Text">
+          <Content xml:space="preserve">May contain other Tree Nut ingredients</Content>
+          <Tags>
+            <Tag StartIndex="0" Length="38" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedMemo>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>

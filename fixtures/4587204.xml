@@ -1,0 +1,459 @@
+<Product VersionDateTime="2017-07-06T15:03:19Z" UpdateType="AddOrUpdate">
+  <Identity>
+    <TargetMarkets>
+      <TargetMarket Code="GB"/>
+      <TargetMarket Code="IE"/>
+    </TargetMarkets>
+    <ProductCodes>
+      <Code Scheme="GTIN">5060102661139</Code>
+      <Code Scheme="BRANDBANK:PVID">4587204</Code>
+    </ProductCodes>
+    <Subscription Id="45834" Code="ATRE001">Tree of Life UK Ltd</Subscription>
+    <DiagnosticDescription Code="en-GB">Ombar Blueberry and Acai 35g</DiagnosticDescription>
+    <DefaultLanguage>en-GB</DefaultLanguage>
+    <Compliance>
+      <EU1169_2011>SupplierStatedCompliant</EU1169_2011>
+    </Compliance>
+  </Identity>
+  <Assets>
+    <Image ShotTypeId="1" ShotType="ID Shot" MimeType="image/jpeg">
+      <Specification>
+        <RequestedDimensions Units="Pixels">
+          <Width>250</Width>
+          <Height>250</Height>
+        </RequestedDimensions>
+        <Quality>85</Quality>
+        <IsCropped>false</IsCropped>
+        <CropPadding>0</CropPadding>
+        <MaxSizeInBytes>0</MaxSizeInBytes>
+      </Specification>
+      <Url>http://productimages.brandbank.com/snapshotimagehandler.ashx?id=00ebaf5e-4e47-8758-73c6-080b040c1f85</Url>
+      <Thumbprint>yq2a3ulWFU7P7OnmeMnsOw==</Thumbprint>
+    </Image>
+  </Assets>
+  <Data>
+    <Language Code="en-GB" Source="OffPack" GroupingSetId="0" GroupingSetName="No Grouping">
+      <Description>Ombar Blueberry and Acai 35g</Description>
+      <Categorisations>
+        <Categorisation Scheme="BRANDBANK">
+          <Level Code="07">Grocery</Level>
+          <Level Code="15">Confectionery</Level>
+          <Level Code="01">Block Chocolate Bars</Level>
+        </Categorisation>
+      </Categorisations>
+      <ItemTypeGroup Id="0" Name="All Attributes">
+        <Statements Id="1" Name="Third Party Logos">
+          <Statement Id="1808">EU Organic</Statement>
+          <Statement Id="238">Soil Association Organic (GB Organic Certification 5)</Statement>
+          <Statement Id="2028">Vegan Society</Statement>
+        </Statements>
+        <Statements Id="2" Name="Lifestyle">
+          <Statement Id="67">Organic</Statement>
+          <Statement Id="68">Suitable for Vegans</Statement>
+        </Statements>
+        <NameLookups Id="4" Name="Allergy Advice">
+          <NameValue>
+            <Name Id="201">Dairy</Name>
+            <Value Id="3">Free From</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="166">Gluten</Name>
+            <Value Id="3">Free From</Value>
+          </NameValue>
+          <NameValue>
+            <Name Id="119">Nuts</Name>
+            <Value Id="2">May Contain</Value>
+          </NameValue>
+        </NameLookups>
+        <Memo Id="15" Name="Manufacturers Address" xml:space="preserve">Mood Foods Ltd,
+M4/M5 (Eastway),
+Dales Manor Business Park,
+Babraham Road,
+Sawston,
+Cambridge,
+CB22 3TJ.</Memo>
+        <NameTextItems Id="16" Name="Dimension">
+          <NameText>
+            <Name Id="183">Shelf Height</Name>
+            <Text xml:space="preserve">100</Text>
+          </NameText>
+          <NameText>
+            <Name Id="184">Shelf Width</Name>
+            <Text xml:space="preserve">50</Text>
+          </NameText>
+          <NameText>
+            <Name Id="185">Shelf Depth</Name>
+            <Text xml:space="preserve">9</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="20" Name="Storage" xml:space="preserve">Store cool &amp; dry and enjoy</Memo>
+        <LongTextItems Id="25" Name="Brand">
+          <Text xml:space="preserve">Ombar</Text>
+        </LongTextItems>
+        <Memo Id="26" Name="Return To" xml:space="preserve">Mood Foods Ltd,
+M4/M5 (Eastway),
+Dales Manor Business Park,
+Babraham Road,
+Sawston,
+Cambridge,
+CB22 3TJ.</Memo>
+        <NameLookups Id="27" Name="Storage Type">
+          <NameValue>
+            <Name Id="190">Type</Name>
+            <Value Id="271">Ambient</Value>
+          </NameValue>
+        </NameLookups>
+        <NameLookups Id="29" Name="Pack Type">
+          <NameValue>
+            <Name Id="197">Type</Name>
+            <Value Id="305">Overwrap</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="32" Name="Features">
+          <Text xml:space="preserve">Organic</Text>
+          <Text xml:space="preserve">Keep it... raw</Text>
+          <Text xml:space="preserve">Ecuadorian 100% organic cacao</Text>
+          <Text xml:space="preserve">Refined sugar free</Text>
+          <Text xml:space="preserve">Dairy and gluten free</Text>
+          <Text xml:space="preserve">Suitable for vegans</Text>
+        </LongTextItems>
+        <NameLookups Id="33" Name="Standardised Brand">
+          <NameValue>
+            <Name Id="224">Brand</Name>
+            <Value Id="34630">Ombar</Value>
+          </NameValue>
+        </NameLookups>
+        <NameTextItems Id="34" Name="Weight">
+          <NameText>
+            <Name Id="227">Gross Weight</Name>
+            <Text xml:space="preserve">37</Text>
+          </NameText>
+        </NameTextItems>
+        <Memo Id="35" Name="Product Marketing" xml:space="preserve">Ombar® is about redefining chocolate. Unlike other brands, we keep out cacao raw and use only organic ingredients, to preserve as much of nature's original goodness as possible. The result? Chocolate you can feel good about.</Memo>
+        <NameTextItems Id="68" Name="Numeric Size">
+          <NameText>
+            <Name Id="926">Numeric Size</Name>
+            <Text xml:space="preserve">35</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="69" Name="Unit (specific)">
+          <NameValue>
+            <Name Id="927">Unit (specific)</Name>
+            <Value Id="12570" Code="g">Grams</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="70" Name="Pack Size">
+          <Text xml:space="preserve">35</Text>
+        </LongTextItems>
+        <LongTextItems Id="71" Name="Unit (free text)">
+          <Text xml:space="preserve">g</Text>
+        </LongTextItems>
+        <Statements Id="72" Name="Average Measure">
+          <Statement Id="928">Average Measure (e)</Statement>
+        </Statements>
+        <Statements Id="83" Name="Languages On Pack">
+          <Statement Id="1001">English</Statement>
+        </Statements>
+        <LongTextItems Id="84" Name="Ingredients">
+          <Text xml:space="preserve">Raw Cacao*</Text>
+          <Text xml:space="preserve">Coconut Sugar*</Text>
+          <Text xml:space="preserve">Cocoa Butter*</Text>
+          <Text xml:space="preserve">Blackcurrant Powder*</Text>
+          <Text xml:space="preserve">Raspberry Powder*</Text>
+          <Text xml:space="preserve">Blueberry Powder* (3.3%)</Text>
+          <Text xml:space="preserve">Acai Powder* (1%)</Text>
+          <Text xml:space="preserve">*Certified Organic</Text>
+          <Text xml:space="preserve">Cocoa Solids 60% minimum</Text>
+        </LongTextItems>
+        <TextualNutrition Id="85" Name="Nutrition">
+          <Headings>
+            <Heading>per 100g</Heading>
+            <Heading>per bar</Heading>
+          </Headings>
+          <Nutrient>
+            <Name>Energy </Name>
+            <Values>
+              <Value>2420 kj</Value>
+              <Value>847 kj</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name/>
+            <Values>
+              <Value>583 kcal</Value>
+              <Value>204 kcal</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Fat </Name>
+            <Values>
+              <Value>44g</Value>
+              <Value>15g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which saturates </Name>
+            <Values>
+              <Value>26g</Value>
+              <Value>9.2g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Carbohydrate </Name>
+            <Values>
+              <Value>44g</Value>
+              <Value>16g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>of which sugars </Name>
+            <Values>
+              <Value>28g</Value>
+              <Value>9.9g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Protein </Name>
+            <Values>
+              <Value>7.5g</Value>
+              <Value>2.6g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Salt </Name>
+            <Values>
+              <Value>0.1g</Value>
+              <Value>0g</Value>
+            </Values>
+          </Nutrient>
+          <Nutrient>
+            <Name>Total flavanols as catechin per 35g bar: 295mg</Name>
+            <Values>
+              <Value/>
+              <Value/>
+            </Values>
+          </Nutrient>
+        </TextualNutrition>
+        <NumericNutrition Id="86" Name="Calculated Nutrition">
+          <Per100Unit>g</Per100Unit>
+          <Per100Heading>per 100</Per100Heading>
+          <PerServingHeading>per bar</PerServingHeading>
+          <NutrientValues Id="1182" Name="Energy (kJ)">
+            <Per100>
+              <Value>2420.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>847.00000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1183" Name="Energy (kcal)">
+            <Per100>
+              <Value>583.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>204.00000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1189" Name="Fat (g)">
+            <Per100>
+              <Value>44.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>15.00000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1190" Name=" of which saturates (g)">
+            <Per100>
+              <Value>26.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>9.20000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1185" Name="Carbohydrate (g)">
+            <Per100>
+              <Value>44.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>16.00000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1186" Name=" of which sugars (g)">
+            <Per100>
+              <Value>28.00000</Value>
+            </Per100>
+            <PerServing>
+              <Value>9.90000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1184" Name="Protein (g)">
+            <Per100>
+              <Value>7.50000</Value>
+            </Per100>
+            <PerServing>
+              <Value>2.60000</Value>
+            </PerServing>
+          </NutrientValues>
+          <NutrientValues Id="1214" Name="Salt (g)">
+            <Per100>
+              <Value>0.10000</Value>
+            </Per100>
+            <PerServing>
+              <Value>0.00000</Value>
+            </PerServing>
+          </NutrientValues>
+        </NumericNutrition>
+        <NameTextItems Id="119" Name="Shelf Ready Pack">
+          <NameText>
+            <Name Id="1406">Height</Name>
+            <Text xml:space="preserve">101</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1407">Width</Name>
+            <Text xml:space="preserve">56</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1408">Depth</Name>
+            <Text xml:space="preserve">140</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1409">Weight</Name>
+            <Text xml:space="preserve">386</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1410">Unit Count</Name>
+            <Text xml:space="preserve">10</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1411">Unit Height</Name>
+            <Text xml:space="preserve">1</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1412">Unit Width</Name>
+            <Text xml:space="preserve">1</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1413">Unit Depth</Name>
+            <Text xml:space="preserve">10</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1415">Merchandise Multiple Ways</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1785">Prototype</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1821">Is Case</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="121" Name="Case">
+          <NameText>
+            <Name Id="1421">GTIN</Name>
+            <Text xml:space="preserve">05060102661702</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1416">Height</Name>
+            <Text xml:space="preserve">103</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1417">Width</Name>
+            <Text xml:space="preserve">56</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1418">Depth</Name>
+            <Text xml:space="preserve">140</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1419">Weight</Name>
+            <Text xml:space="preserve">402</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1420">Unit Count</Name>
+            <Text xml:space="preserve">10</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1786">Prototype</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+        </NameTextItems>
+        <NameTextItems Id="134" Name="Unit Merchandising">
+          <NameText>
+            <Name Id="1778">Height</Name>
+            <Text xml:space="preserve">100</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1779">Width</Name>
+            <Text xml:space="preserve">50</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1780">Depth</Name>
+            <Text xml:space="preserve">9</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1782">Unit Stackable</Name>
+            <Text xml:space="preserve">Yes</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1781">Unit Stable</Name>
+            <Text xml:space="preserve">Yes</Text>
+          </NameText>
+          <NameText>
+            <Name Id="1783">Merchandise Multiple Ways</Name>
+            <Text xml:space="preserve">No</Text>
+          </NameText>
+        </NameTextItems>
+        <NameLookups Id="137" Name="New Product Development">
+          <NameValue>
+            <Name Id="1818">New Product Development</Name>
+            <Value Id="27719">Final Product - Not NPD</Value>
+          </NameValue>
+        </NameLookups>
+        <LongTextItems Id="148" Name="Third Party Logo Other Text">
+          <Text xml:space="preserve">EU Organic - GB-ORG-05, EU/non-EU Agriculture</Text>
+        </LongTextItems>
+        <Memo Id="159" Name="Regulated Product Name" xml:space="preserve">Organic Raw Chocolate with Blueberry &amp; Acai</Memo>
+        <NameLookups Id="160" Name="Calculated Nutrition Ordering">
+          <NameValue>
+            <Name Id="1882">Scheme</Name>
+            <Value Id="35181">Regulation (EU) No 1169/2011</Value>
+          </NameValue>
+        </NameLookups>
+        <TaggedLongTextItems Id="177" Name="Taggable Ingredients">
+          <Text xml:space="preserve">Raw Cacao*</Text>
+          <Text xml:space="preserve">Coconut Sugar*</Text>
+          <Text xml:space="preserve">Cocoa Butter*</Text>
+          <Text xml:space="preserve">Blackcurrant Powder*</Text>
+          <Text xml:space="preserve">Raspberry Powder*</Text>
+          <Text xml:space="preserve">Blueberry Powder* (3.3%)</Text>
+          <Text xml:space="preserve">Acai Powder* (1%)</Text>
+          <Text xml:space="preserve">*Certified Organic</Text>
+          <Text xml:space="preserve">Cocoa Solids 60% minimum</Text>
+        </TaggedLongTextItems>
+        <NameTextItems Id="184" Name="Description Breakdown">
+          <NameText>
+            <Name Id="1998">Variant</Name>
+            <Text xml:space="preserve">Blueberry and Acai</Text>
+          </NameText>
+        </NameTextItems>
+        <LongTextItems Id="192" Name="Company Name">
+          <Text xml:space="preserve">Mood Foods Ltd</Text>
+        </LongTextItems>
+        <Memo Id="193" Name="Company Address" xml:space="preserve">M4/M5 (Eastway),
+Dales Manor Business Park,
+Babraham Road,
+Sawston,
+Cambridge,
+CB22 3TJ.</Memo>
+        <TaggedMemo Id="197" Name="Taggable Allergy Text">
+          <Content xml:space="preserve">May contain traces of Nuts</Content>
+          <Tags>
+            <Tag StartIndex="0" Length="26" TagTypeId="1" TagType="Allergen As On Pack"/>
+          </Tags>
+        </TaggedMemo>
+      </ItemTypeGroup>
+    </Language>
+  </Data>
+</Product>
